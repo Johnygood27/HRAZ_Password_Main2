@@ -102,3 +102,4 @@ if __name__ == "__main__":
         print(f"{YELLOW}Ошибка: {e}{RESET}")
         sys.exit(1)
 import random
+import os
