@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 ХРАЗ: Конфиденциальный скрипт генерации сложных паролей.
-Стиль: мрачный, циничный, саркастический.
+.
 """
 
 import string
@@ -102,3 +102,4 @@ if __name__ == "__main__":
     except Exception as e:
         print(f"{YELLOW}Ошибка: {e}{RESET}")
         sys.exit(1)
+import random
